@@ -59,6 +59,7 @@ category_map:
     github: github
     hexo: hexo
     blog: blog
+    html: html
 tag_map:
     html: html
     hexo: hexo

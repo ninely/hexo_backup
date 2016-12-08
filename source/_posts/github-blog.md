@@ -31,6 +31,7 @@ Github 还为每个项目提供了域名，创建一个名为 project （任意�
 `Enter same passphrase again:<再次输入加密串>`
 在回车中会提示你输入一个密码，这个密码会在你提交项目时使用，如果为空的话提交项目时则不用输入。这个设置是防止别人往你的项目里提交内容。
 在自己的目录（C:\Documents and Settings）下有一个.ssh目录，有id_rsa 私钥和id_rsa.pub公钥文件，说明成功了。
+{% img /img/201612071949.jpg %}
 接下来打开github，找到账户里面添加SSH，把idrsa.pub内容复制到key里面。
 使用下面的命令测试（过程中输入yes即可）
 `ssh -T git@github.com`
