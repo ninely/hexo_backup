@@ -1,7 +1,6 @@
 ---
 title: Github搭建个人博客前的准备
 date: 2016-12-07 16:21:13
-type: "tags"
 categories: github
 tags: 
     - git

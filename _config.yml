@@ -59,11 +59,13 @@ category_map:
     github: github
     hexo: hexo
 tag_map:
-    html
-    hexo
-    other
-    github
-    git
+    html: html
+    hexo: hexo
+    other: other
+    github: github
+    git: git
+    js: js
+    css: css
 
 # Date / Time format
 ## Hexo uses Moment.js to parse and display date
