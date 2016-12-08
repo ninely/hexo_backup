@@ -60,6 +60,7 @@ category_map:
     hexo: hexo
     blog: blog
     html: html
+    javascript: js
 tag_map:
     html: html
     hexo: hexo
