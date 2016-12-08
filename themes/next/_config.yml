@@ -225,7 +225,7 @@ excerpt_description: true
 # Automatically Excerpt. Not recommand.
 # Please use <!-- more --> in the post to control excerpt accurately.
 auto_excerpt:
-  enable: ture
+  enable: false
   length: 150
 
 

@@ -1,8 +1,7 @@
 ---
 title: hexo搭建个人博客
 date: 2016-12-07 18:21:13
-type: "tags"
-categories: hexo
+categories: blog
 tags: hexo
 ---
 ### 选择hexo
@@ -14,6 +13,7 @@ Jekyll没有本地服务器，无法实现本地博文预览功能，需要上�
 ### 安装hexo
 安装nodejs非常简单就略过，由于在国内使用npm（NPM是随同NodeJS一起安装的包管理工具）下载扩展速度很慢，大多数推荐使用淘宝NPM镜像替代，输入以下命令等待安装：
 `$ npm install -g cnpm --registry=https://registry.npm.taobao.org`
+<!-- more -->
 这样就可以用cnpm代替npm命令，完在电脑上新建一个blog（自定义）文件夹,该文件夹用于存放你的博客文件,然后右键单击选择 Git Bash
 `$ cnpm install -g hexo-cli`
 出现的WARN可以不用理会，继续输入以下命令
