@@ -12,7 +12,7 @@ hexo还有一个好处就是拥有很多漂亮的主题，其中我选择了next
  1. 在文章中使用 `<!-- more -->` 手动进行截断，Hexo 提供的方式
  2. 在文章的 front-matter 中添加 description，并提供文章摘录
  3. 自动形成摘要，在 主题配置文件 中添加：
-{% img full-image /img/201612081249.jpg %}
+{% img /img/201612081249.jpg %}
 
 ### 添加标签页（categories和tags）
 ```
