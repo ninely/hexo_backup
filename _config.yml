@@ -91,10 +91,14 @@ theme: next
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
+  # type: git
+  # elfwalk改为你的github用户名
+  # repository: https://github.com/ninely/ninely.github.io.git
+  # branch: master
   type: git
-  #elfwalk改为你的github用户名
-  repository: https://github.com/ninely/ninely.github.io.git
-  branch: master
+  repo:
+	  github: https://github.com/ninely/ninely.github.io.git,master
+	  coding: git@git.coding.net:ninely/ninely.git,master
 
 feed:
   type: atom
