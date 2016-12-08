@@ -97,7 +97,7 @@ deploy:
   # branch: master
   type: git
   repo:
-	  github: https://github.com/ninely/ninely.github.io.git,master
+	  github: git@github.com:ninely/ninely.github.io.git,master
 	  coding: git@git.coding.net:ninely/ninely.git,master
 
 feed:
@@ -119,7 +119,8 @@ baidusitemap:
 duoshuo_shortname: ninely
 
 # 百度统计
-baidu_analytics: 3ceeecb0c5ec3e5ea30ee0c669f7af32
+# baidu_analytics: 3ceeecb0c5ec3e5ea30ee0c669f7af32
+baidu_analytics: bf4716e4a962d9cd03066126c9e16267
 
 # 网站标志
 favicon: /images/favicon.ico
