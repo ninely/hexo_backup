@@ -5,5 +5,5 @@ var exec = require('child_process').exec;
 // });
 // Hexo 3 用户复制这段
 hexo.on('new', function(data){
-  exec('start  "C:\Software\work\Sublime Text 3.exe" ' + data.path);
+  exec('start  "C:/Software/work/Sublime Text 3.exe" ' + data.path);
 });
