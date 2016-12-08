@@ -41,4 +41,3 @@ Github 还为每个项目提供了域名，创建一个名为 project （任意�
 `git config --global user.email "youremail@domain.com"`
 #### 参考
 http://pwnny.cn/original/2016/06/26/MakeBlog.html
-<!--more-->

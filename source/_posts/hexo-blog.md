@@ -61,4 +61,3 @@ skip_render:
 [零基础免费搭建个人博客](http://hifor.net/2015/07/01/零基础免费搭建个人博客-hexo-github)
 [hexo常用笔记](https://segmentfault.com/a/1190000002632530)
 [献给写作者的 Markdown 新手指南](http://www.jianshu.com/p/q81RER#)
-<!--more-->
