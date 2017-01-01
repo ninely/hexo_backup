@@ -61,6 +61,7 @@ category_map:
     blog: blog
     html: html
     javascript: javascript
+    php: php
 tag_map:
     html: html
     hexo: hexo
@@ -70,6 +71,7 @@ tag_map:
     js: js
     css: css
     next: next
+    php: php
 
 # Date / Time format
 ## Hexo uses Moment.js to parse and display date
